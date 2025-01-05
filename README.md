@@ -54,20 +54,20 @@ begin
         q<=~q;
   end
 endmodule
+```
 
 Developed by: JOANN ELIZABETH SAMUEL
 RegisterNumber: 24900609
-```
-*/
 
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![Screenshot 2024-12-27 232724](https://github.com/user-attachments/assets/92b9618a-3680-44f5-a246-9612daaa9ca0)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-27 232739](https://github.com/user-attachments/assets/a64e65ab-bc53-4760-9bf2-3db98ed9be44)
+![image](https://github.com/user-attachments/assets/fc060ea6-71d6-4663-8948-73ecff401b9c)
+
 
 
 **RESULTS**
